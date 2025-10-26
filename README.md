@@ -13,7 +13,7 @@ O lixo deverá ser transportado num container de base = 6㎡, mas de altura vari
 
 **O programa deve retornar:**
 - A quantidade de ilhas de lixo encontradas na matriz
-- As profundidades correspondentes a cada ilha, separadas por espaço (que é dada pelo somatório das alturas de uma mesma ilha divida por 6)
+- As profundidades correspondentes a cada ilha, separadas por espaço (que é dada pelo somatório das alturas de uma mesma ilha dividida por 6)
 - Uma combinação de profundidades que, somadas, resultam na profundidade exata do contêiner (caso não houver tal soma, imprime-se "Nao ha resposta valida!")
 
 ## Modo de executar via terminal:
