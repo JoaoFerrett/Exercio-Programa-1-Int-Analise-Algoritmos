@@ -19,10 +19,12 @@ O lixo deverá ser transportado num container de base = 6㎡, mas de altura vari
 ## Modo de executar via terminal:
 
  $ ./EXECUTAVEL <profundidade_container> <linhas_da_matriz> <colunas_da_matriz> ExemploAreaScaneada.txt
+ 
  (no caso do exemplo, <linhas_da_matriz> = 3, <colunas_da_matriz> = 7)
 
  Caso queira fazer alterações no código e usar outrous arquivos txt contendo outras matrizes, compile usando:
  $ gcc <Seu_Codigo>.c -o <Executavel>
+ 
  (lembre-se de separar os elementos da matriz com espaços e colocar o número certo de linhas e colunas representadas no arquivo de texto)
 
 ## Outras considerações:
